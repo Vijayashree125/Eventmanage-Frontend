@@ -1,0 +1,10 @@
+.move-up:hover{
+    background-color: #fec503;
+  color: white;
+    transition: all .5s;
+    transform : translateY(-10px);
+}
+
+.ng-mrg-t{
+  margin-top: -50px;
+}
