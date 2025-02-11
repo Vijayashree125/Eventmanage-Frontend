@@ -2,8 +2,8 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route ,Navigate } from "react-router-dom";
 import LandingPage from './Pages/landingPage';
-import Signup from "./components/SignUp";  // Your Signup Page Component
-import Signin from "./components/SignIn";  // Your Signup Page Component
+import Signup from "./components/SignUp";  
+import Signin from "./components/SignIn";
 import Sidebar from "./components/sidebar";
 import Dashboard from "./components/dashboard";
 import { ToastContainer } from "react-toastify";

@@ -1,0 +1,42 @@
+.gradient-btn {
+    background: linear-gradient(45deg, #f759b2, #bc39e3);
+    border: none;
+    color: rgb(27, 20, 32);
+    padding: 8px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: 2px 2px;
+}
+
+.gradient-btn:hover {
+    background: linear-gradient(45deg, #fb4cbb, #ff7e5f);
+    transform: scale(1.05);
+}
+
+.head{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    color: #05243e;
+    text-decoration: 3px 3px;   
+}
+
+a{
+    color: rgb(110, 3, 56);
+    text-shadow: 1px 1px;
+    margin-top: 1px;
+}
+
+.navbar {
+    background: linear-gradient(to right, #3c64f5, #de2a96);
+    padding: 15px;
+    transition: background 0.5s ease-in-out;
+  }
+  
+  .navbar:hover {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+  }
+  

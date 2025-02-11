@@ -1,5 +1,7 @@
 import React from "react";
 import myevent from '../assets/evtmng1.jpg';
+import myimage from '../assets/events1.jpg';
+import myimageevent from '../assets/evtmng3-jpg.jpg';
 import './Features.css';
 
 
@@ -16,29 +18,26 @@ const Features = () => {
             <div class="card" >
               <img src={myevent} class="img-fluid" alt="..." />;
               <div class="card-body">
-                <h5 class="card-title">Martina doena</h5>
-                <p class="card-text">Highly proficient in Web3 and AI and professional in Designing Websites with tools of Web3.0.</p>
-                {/* <a href="#" class="btn org-btn">Learn More.</a> */}
+                <h5 class="card-title">Venue selection</h5>
+                <p class="card-text">Venue Selection - For in-person and hybrid events, it's important to select the right venue. Work with your team to finalize a venue that offers the space .</p>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card" >
-              <img src={myevent} class="img-fluid" alt="..." />;
+              <img src={myimage} class="img-fluid" alt="..." />;
               <div class="card-body">
-                <h5 class="card-title">Zaid S.</h5>
-                <p class="card-text">A professional web designer with a wealth of knowledge about the web Development and Software Development. </p>
-                {/* <a href="#" class="btn org-btn">Go somewhere</a> */}
+                <h5 class="card-title">Event communication</h5>
+                <p class="card-text">In event management, you have to create an event where contacts are well-managed and have space for genuine communication. During an event, attendees appreciate. </p>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card" >
-              <img src={myevent} class="img-fluid" alt="..." />;
+              <img src={myimageevent} class="img-fluid" alt="..." />;
               <div class="card-body">
-                <h5 class="card-title">Jhon Doe</h5>
-                <p class="card-text">Expert in all aspects of coding and knowledgeable about a wide range of coding languages</p>
-                {/* <a href="#" class="btn org-btn">Go somewhere</a> */}
+                <h5 class="card-title">Event budgeting</h5>
+                <p class="card-text">Budgeting and Financial Management. In many ways, the budgeting of event management is the most important part.</p>
               </div>
             </div>
           </div>

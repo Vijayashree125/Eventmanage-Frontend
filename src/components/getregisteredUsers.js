@@ -29,7 +29,7 @@ function RegisterEvents() {
                 <Sidebar />
                 <div className="content">
                     <div className="row">
-                        <h5>User Login History</h5>
+                        <h5>Event History</h5>
                         <table className="table table-hover mt-2">
                             <thead>
                                 <tr>

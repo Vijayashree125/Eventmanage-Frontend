@@ -34,8 +34,8 @@ function Dashboard() {
                             <thead>
                                 <tr>
                                     <th scope="col">S.no</th>
-                                    <th scope="col">Event Title</th>
-                                    <th scope="col">Description</th>
+                                    <th scope="col">User ID</th>
+                                    <th scope="col">Type</th>
                                     <th scope="col">Ip Address
                                     </th>
                                     <th scope="col">Date</th>
